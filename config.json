@@ -124,6 +124,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-db-api",
+      "title": "FastAPI Database API",
+      "description": "Build a REST API with FastAPI that persists data to SQLite using SQLAlchemy.",
+      "path": "assignments/fastapi-db-api",
+      "dueDate": "2026-06-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
